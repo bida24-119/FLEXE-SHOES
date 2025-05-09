@@ -1,1 +1,33 @@
-# FLEXE-SHOES
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome to Flexe Shoe – Authentic Nike Footwear</title>
+</head>
+<body>
+
+  <h1>Welcome to Flexe Shoe – Your Source for Nike Shoes</h1>
+  <p>Discover the latest Nike sneakers for running, casual wear, and more.</p>
+
+  <h2>Popular Nike Categories</h2>
+
+  <ul>
+    <li>
+      <img src="images/nike-air-max-270.jpg" alt="Nike Air Max 270" width="200"><br>
+      <strong>Nike Air Max 270</strong><br>
+      $139.99
+    </li>
+    <li>
+      <img src="images/nike-revolution-6.jpg" alt="Nike Revolution 6" width="200"><br>
+      <strong>Nike Revolution 6</strong><br>
+      $74.99
+    </li>
+    <li>
+      <img src="images/nike-tanjun-kids.jpg" alt="Nike Tanjun Kids" width="200"><br>
+      <strong>Nike Tanjun (Kids)</strong><br>
+      $49.99
+    </li>
+  </ul>
+
+</body>
+</html>
